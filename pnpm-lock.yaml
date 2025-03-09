@@ -9,19 +9,19 @@ importers:
   .:
     dependencies:
       '@emotion/react':
-        specifier: ^11.13.3
+        specifier: ^11.14.0
         version: 11.14.0(@types/react@18.3.18)(react@18.3.1)
       '@emotion/styled':
-        specifier: ^11.13.0
+        specifier: ^11.14.0
         version: 11.14.0(@emotion/react@11.14.0(@types/react@18.3.18)(react@18.3.1))(@types/react@18.3.18)(react@18.3.1)
       '@heroicons/react':
         specifier: ^2.2.0
         version: 2.2.0(react@18.3.1)
       '@mui/material':
-        specifier: ^6.0.2
+        specifier: ^6.4.7
         version: 6.4.7(@emotion/react@11.14.0(@types/react@18.3.18)(react@18.3.1))(@emotion/styled@11.14.0(@emotion/react@11.14.0(@types/react@18.3.18)(react@18.3.1))(@types/react@18.3.18)(react@18.3.1))(@types/react@18.3.18)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@supabase/supabase-js':
-        specifier: ^2.47.12
+        specifier: ^2.49.1
         version: 2.49.1
       '@types/prop-types':
         specifier: ^15.7.14
@@ -39,47 +39,47 @@ importers:
         specifier: ^18.3.1
         version: 18.3.1(react@18.3.1)
       serve:
-        specifier: ^14.0.1
+        specifier: ^14.2.4
         version: 14.2.4
     devDependencies:
       '@eslint/js':
-        specifier: ^9.9.0
+        specifier: ^9.22.0
         version: 9.22.0
       '@types/react':
-        specifier: ^18.3.3
+        specifier: ^18.3.18
         version: 18.3.18
       '@types/react-dom':
-        specifier: ^18.3.0
+        specifier: ^18.3.5
         version: 18.3.5(@types/react@18.3.18)
       '@vitejs/plugin-react':
-        specifier: ^4.3.1
+        specifier: ^4.3.4
         version: 4.3.4(vite@5.4.14(@types/node@22.13.10))
       autoprefixer:
         specifier: ^10.4.20
         version: 10.4.20(postcss@8.5.3)
       eslint:
-        specifier: ^9.9.0
+        specifier: ^9.22.0
         version: 9.22.0(jiti@1.21.7)
       eslint-plugin-react:
-        specifier: ^7.35.0
+        specifier: ^7.37.4
         version: 7.37.4(eslint@9.22.0(jiti@1.21.7))
       eslint-plugin-react-hooks:
-        specifier: ^5.1.0-rc.0
+        specifier: ^5.2.0
         version: 5.2.0(eslint@9.22.0(jiti@1.21.7))
       eslint-plugin-react-refresh:
-        specifier: ^0.4.9
+        specifier: ^0.4.19
         version: 0.4.19(eslint@9.22.0(jiti@1.21.7))
       globals:
-        specifier: ^15.9.0
+        specifier: ^15.15.0
         version: 15.15.0
       postcss:
-        specifier: ^8.4.45
+        specifier: ^8.5.3
         version: 8.5.3
       tailwindcss:
-        specifier: ^3.4.10
+        specifier: ^3.4.17
         version: 3.4.17
       vite:
-        specifier: ^5.4.1
+        specifier: ^5.4.14
         version: 5.4.14(@types/node@22.13.10)
 
 packages:
